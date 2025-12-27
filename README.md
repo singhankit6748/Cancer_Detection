@@ -50,8 +50,6 @@ Step 7: Evaluate and visualize
 
 <img src="assets/ANN_TEST.png">
 <img src="assets/ANN_TRAIN.png">
-<img src="assets/SVM_TEST.png">
-<img src="assets/SVM_TRAIN.png">
 
 ## Running
 
@@ -84,3 +82,4 @@ The `Wisconsin_Dataset` directory contains all code related to this publication.
 
 The specific neural network size and architecture can be directly altered from `src/Wisconsin_Dataset/NeuralNet.py`. The `prep_model()` as you see necessary.
 "# Cancer_Detection" 
+
